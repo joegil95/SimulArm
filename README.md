@@ -14,3 +14,10 @@ Le microcontrôleur simulé est précisément un STM32F407, fabriqué par la soc
 ST-Microelectronics, qui fait partie de la famille STM32F4, et équipe les cartes Olimex E-407 et
 Discovery STM32F407.
 
+<img width="1082" height="791" alt="Interface-Exemple" src="https://github.com/user-attachments/assets/49eb9258-419f-4e9d-9f66-bf303dbdb4b4" />
+
+Le logiciel dispose d'une interface graphique de simulation avec des leds, des boutons, des afficheurs 
+et de nombreux périphériques, allant jusqu'à un accès réseau.
+
+Il offre aussi un noyau multitâche permettant de s'initier à la programmation parallèle.
+
